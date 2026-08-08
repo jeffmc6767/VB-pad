@@ -20,12 +20,12 @@ Image gallery:
 BOM:
 -
 
-- 1x PCB
-- 1x Seeed XIAO RP2040 Microcontroller
-- 3x Cherry MX Switches
-- 2x EC11 Encoder with switch
-- 3x white blank DSA keycaps
-- 1x 3D printed case(I have 3d printer)
-- 4x M3x16mm screws
-- 4x M3x5mx4mm heatset inserts
+1. 1x PCB
+2. 1x Seeed XIAO RP2040 Microcontroller
+3. 3x Cherry MX Switches
+4. 2x EC11 Encoder with switch
+5.  3x white blank DSA keycaps
+6.  1x 3D printed case(I have 3d printer)
+7.  4x M3x16mm screws
+8.  4x M3x5mx4mm heatset inserts
 
