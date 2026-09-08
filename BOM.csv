@@ -1,0 +1,9 @@
+Item #,Component / Description,Qty,Unit,Category,Est. Unit Price ($),Notes / Source
+1,Custom PCB,1,pcs,Electronics,2.0,"Custom fabrication (e.g., JLCPCB/PCBWay)"
+2,Seeed Studio XIAO RP2040 Microcontroller,1,pcs,Electronics,5.4,Main MCU board
+3,Cherry MX Switches,3,pcs,Mechanical,0.5,Plate/PCB mounted switch
+4,EC11 Rotary Encoder with Switch,2,pcs,Electronics,1.2,20-pulse with push button
+5,"DSA Keycaps (White, Blank)",3,pcs,Keycaps,0.8,1u DSA profile keycaps
+6,3D Printed Enclosure / Case,1,pcs,Enclosure,0.0,"Self-printed (PLA/PETG, ~50g filament)"
+7,M3 x 16mm Socket Head Cap Screws,4,pcs,Hardware,0.15,Stainless steel / Alloy steel
+8,M3 x 5mm (L) x 4mm (OD) Heat-Set Brass Inserts,4,pcs,Hardware,0.1,Brass threaded inserts for 3D prints
